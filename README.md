@@ -1,2 +1,1 @@
-# chanelandre
-Nuyul-Apk1
+#Nuyul-Apk1
